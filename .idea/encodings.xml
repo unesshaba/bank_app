@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/bank-account-ms-enset-bdcc-app/account-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bank-account-ms-enset-bdcc-app/account-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bank-account-ms-enset-bdcc-app/config-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bank-account-ms-enset-bdcc-app/config-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bank-account-ms-enset-bdcc-app/customer-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bank-account-ms-enset-bdcc-app/customer-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bank-account-ms-enset-bdcc-app/discovery-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bank-account-ms-enset-bdcc-app/discovery-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bank-account-ms-enset-bdcc-app/gateway-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bank-account-ms-enset-bdcc-app/gateway-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bank-account-ms-enset-bdcc-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bank-account-ms-enset-bdcc-app/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bank-account-ms-enset-bdcc-app/account-service/account-service.iml" filepath="$PROJECT_DIR$/bank-account-ms-enset-bdcc-app/account-service/account-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank-account-ms-enset-bdcc-app/bank-account-app.iml" filepath="$PROJECT_DIR$/bank-account-ms-enset-bdcc-app/bank-account-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank-account-ms-enset-bdcc-app/config-service/config-service.iml" filepath="$PROJECT_DIR$/bank-account-ms-enset-bdcc-app/config-service/config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank-account-ms-enset-bdcc-app/customer-service/customer-service.iml" filepath="$PROJECT_DIR$/bank-account-ms-enset-bdcc-app/customer-service/customer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/devops.iml" filepath="$PROJECT_DIR$/.idea/devops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank-account-ms-enset-bdcc-app/discovery-service/discovery-service.iml" filepath="$PROJECT_DIR$/bank-account-ms-enset-bdcc-app/discovery-service/discovery-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank-account-ms-enset-bdcc-app/gateway-service/gateway-service.iml" filepath="$PROJECT_DIR$/bank-account-ms-enset-bdcc-app/gateway-service/gateway-service.iml" />
+    </modules>
+  </component>
+</project>
